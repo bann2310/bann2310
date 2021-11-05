@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi EVERYBODY 👋
+*             📝 **Information**:
+  * 🧑 Name: Nguyễn Minh Duy
+  * 🎂 Birthday: 23/10
+  * 📱 Phone: 0907448146
+  * 💻 Developer
+  * 💼 Student in University Infomation Technology
+*             😍 **My Hobby**:
+  * 💻 Code  🎮 Game  🎵 Music  ◀ Youtube                                          
 
-<!--
-**bann2310/bann2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact: [My Facebook](https://www.facebook.com/ban2310/)
